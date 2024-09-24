@@ -4,7 +4,6 @@
 # useless files
 *.log
 *.runtime-xml
-*.uproject
 *.dmp
 
 # Compiled Object files
