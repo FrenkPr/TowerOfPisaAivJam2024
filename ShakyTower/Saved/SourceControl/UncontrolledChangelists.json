@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Epic Games/Projects/TowerOfPisaAivJam2024/ShakyTower/Content/Pisa/Models/aereo_Elica.uasset",
+				"D:/Epic Games/Projects/TowerOfPisaAivJam2024/ShakyTower/Content/Pisa/BPs/BP_elica.uasset",
+				"D:/Epic Games/Projects/TowerOfPisaAivJam2024/ShakyTower/Content/Pisa/BPs/BP_Plane.uasset",
+				"D:/Epic Games/Projects/TowerOfPisaAivJam2024/ShakyTower/Content/Levels/Pisa_Plaza.umap",
+				"D:/Epic Games/Projects/TowerOfPisaAivJam2024/ShakyTower/Content/Pisa/BPs/BP_Spawner.uasset",
 				"C:/Users/fmoch/OneDrive/Documenti/GitHubRepositories/TowerOfPisaAivJam2024/ShakyTower/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/fmoch/OneDrive/Documenti/GitHubRepositories/TowerOfPisaAivJam2024/ShakyTower/Content/Levels/Pisa_Plaza.umap",
 				"C:/Users/fmoch/OneDrive/Documenti/GitHubRepositories/TowerOfPisaAivJam2024/ShakyTower/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
