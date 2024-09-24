@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Leonardo/OneDrive/Documenti/Unreal Projects/TowerOfPisaAivJam2024/ShakyTower/Content/Pisa/BPs/Pisa_Tower.uasset",
+				"C:/Users/Leonardo/OneDrive/Documenti/Unreal Projects/TowerOfPisaAivJam2024/ShakyTower/Content/Pisa/Inputs/Rotate.uasset",
+				"C:/Users/Leonardo/OneDrive/Documenti/Unreal Projects/TowerOfPisaAivJam2024/ShakyTower/Content/Pisa/Inputs/Jump.uasset",
+				"C:/Users/Leonardo/OneDrive/Documenti/Unreal Projects/TowerOfPisaAivJam2024/ShakyTower/Content/Pisa/Inputs/Pisa_Controls.uasset",
+				"C:/Users/Leonardo/OneDrive/Documenti/Unreal Projects/TowerOfPisaAivJam2024/ShakyTower/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Leonardo/OneDrive/Documenti/Unreal Projects/TowerOfPisaAivJam2024/ShakyTower/Content/Pisa_Plaza.umap",
 				"C:/Users/fmoch/OneDrive/Documenti/GitHubRepositories/TowerOfPisaAivJam2024/ShakyTower/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
