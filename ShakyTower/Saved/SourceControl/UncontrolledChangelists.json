@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/fmoch/OneDrive/Documenti/GitHubRepositories/TowerOfPisaAivJam2024/ShakyTower/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/fmoch/OneDrive/Documenti/GitHubRepositories/TowerOfPisaAivJam2024/ShakyTower/Content/Levels/Pisa_Plaza.umap",
+				"C:/Users/fmoch/OneDrive/Documenti/GitHubRepositories/TowerOfPisaAivJam2024/ShakyTower/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/fmoch/OneDrive/Documenti/GitHubRepositories/TowerOfPisaAivJam2024/ShakyTower/Content/Pisa/BPs/Pisa_Tower.uasset",
+				"C:/Users/fmoch/OneDrive/Documenti/GitHubRepositories/TowerOfPisaAivJam2024/ShakyTower/Content/ThirdPerson/Blueprints/BP_PisaTower2.uasset",
+				"C:/Users/fmoch/OneDrive/Documenti/GitHubRepositories/TowerOfPisaAivJam2024/ShakyTower/Content/Pisa/Inputs/IMC_Pisa_Controls.uasset",
+				"C:/Users/fmoch/OneDrive/Documenti/GitHubRepositories/TowerOfPisaAivJam2024/ShakyTower/Content/Pisa/Inputs/Pisa_Controls.uasset",
+				"C:/Users/fmoch/OneDrive/Documenti/GitHubRepositories/TowerOfPisaAivJam2024/ShakyTower/Content/Pisa/Inputs/IA_Jump.uasset",
+				"C:/Users/fmoch/OneDrive/Documenti/GitHubRepositories/TowerOfPisaAivJam2024/ShakyTower/Content/Pisa/Inputs/Jump.uasset",
+				"C:/Users/fmoch/OneDrive/Documenti/GitHubRepositories/TowerOfPisaAivJam2024/ShakyTower/Content/Pisa/Inputs/IA_Rotate.uasset",
+				"C:/Users/fmoch/OneDrive/Documenti/GitHubRepositories/TowerOfPisaAivJam2024/ShakyTower/Content/Pisa/Inputs/Rotate.uasset",
 				"C:/Users/roxof/Documents/GitHub/TowerOfPisaAivJam2024/ShakyTower/Content/Pisa/Inputs/Pisa_Controls.uasset",
 				"C:/Users/roxof/Documents/GitHub/TowerOfPisaAivJam2024/ShakyTower/Content/Pisa_Plaza.umap",
 				"C:/Users/roxof/Documents/GitHub/TowerOfPisaAivJam2024/ShakyTower/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
@@ -40,8 +51,7 @@
 				"C:/Users/Leonardo/OneDrive/Documenti/Unreal Projects/TowerOfPisaAivJam2024/ShakyTower/Content/Pisa/Models/Texture/TX_Var2/T_ORM_standardSurface1_.uasset",
 				"C:/Users/Leonardo/OneDrive/Documenti/Unreal Projects/TowerOfPisaAivJam2024/ShakyTower/Content/Pisa/Models/Texture/M_Plane1.uasset",
 				"C:/Users/Leonardo/OneDrive/Documenti/Unreal Projects/TowerOfPisaAivJam2024/ShakyTower/Content/Pisa/Models/Texture/M_Plane2.uasset",
-				"C:/Users/Leonardo/OneDrive/Documenti/Unreal Projects/TowerOfPisaAivJam2024/ShakyTower/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/VC/VHSSHKEQD7EMDO45M88GP3.uasset",
-				"C:/Users/fmoch/OneDrive/Documenti/GitHubRepositories/TowerOfPisaAivJam2024/ShakyTower/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/Leonardo/OneDrive/Documenti/Unreal Projects/TowerOfPisaAivJam2024/ShakyTower/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/VC/VHSSHKEQD7EMDO45M88GP3.uasset"
 			]
 		}
 	]
