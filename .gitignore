@@ -1,6 +1,10 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+#useless folders to commit, THEY'RE PERSONAL!
+Cooked/
+StagedBuilds/
+
 # useless files
 *.log
 *.runtime-xml
