@@ -4,6 +4,9 @@
 #useless folders to commit, THEY'RE PERSONAL!
 Cooked/
 StagedBuilds/
+ShakyTower/Saved/Temp/*
+/ShakyTower/Saved/Config/CrashReportClient/**/*
+/Shaders/**/*
 
 # useless files
 *.log
